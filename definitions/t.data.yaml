@@ -1,0 +1,6 @@
+-   title: Telecommunications
+    abbreviation: telecom
+-   title: Terraform
+    references:
+        -   title: Official Site
+            url: https://www.terraform.io

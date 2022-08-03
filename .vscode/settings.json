@@ -1,0 +1,15 @@
+{
+    "yaml.schemas": {
+        "./.vscode/schema.json": [
+            "**/*.data.yaml"
+        ]
+    },
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "*.data.yaml"
+            ],
+            "url": "./.vscode/schema.json"
+        }
+    ]
+}

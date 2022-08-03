@@ -1,0 +1,23 @@
+-   title: C-Level
+    description: >
+        One of the "Chief" roles in a company. A 
+        C-Level are roles like [CEO][], [COO][], etc...
+    tags:
+        -   business
+-   title: Chief Executive Officer
+    abbreviation: CEO
+    tags:
+        -   business
+-   title: Chief Operating Officer
+    abbreviation: COO
+    tags:
+        -   business
+-   title: Chief Financial Officer
+    abbreviation: CFO
+    tags:
+        -   business
+-   title: (C)ustomer (P)roprietary (N)etwork (I)nformation
+    abbreviation: CPNI
+    tags:
+        -   business
+        -   it

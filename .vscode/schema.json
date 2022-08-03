@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "title": {
+                "type": "string"
+            },
+            "abbreviation": {
+                "type": "string"
+            },
+            "references": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "title": {
+                            "type": "string"
+                        },
+                        "url":{
+                            "type": "string"
+                        },
+                        "description":{
+                            "type": "string"
+                        }
+                    },
+                    "required": ["url"]
+                }
+            },
+            "description":{
+                "type": "string"
+            },
+            "tags": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "required": ["title"]
+    }
+}

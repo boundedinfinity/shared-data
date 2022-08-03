@@ -1,0 +1,11 @@
+-   title: (D)e(m)ilitarized (Z)one
+    abbreviation: DMZ
+    references:
+        -   title: Wikipedia
+            url: https://en.wikipedia.org/wiki/DMZ_(computing)
+    tags:
+        -   it
+-   title: (D)igital (S)ignal (P)rocessing
+    abbreviation: DSP
+    tags:
+        -   electronics
